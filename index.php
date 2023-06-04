@@ -15,7 +15,7 @@ class Movie {
 
     }
 
-    function setGenre(array $_genre){
+    public function setGenre(array $_genre){
         $this->genre = $_genre;
     }
 
