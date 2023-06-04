@@ -6,7 +6,8 @@ PHP - classi
 
 Per salvare la cartella con il progetto (MAMP consigliato per creare server web):
 
-C:\MAMP\htdocs\php
+- C:\MAMP\htdocs\php
+ 
 Per runnare il codice in locale:
 
-localhost/php/php-dischi-json
+- localhost/php/php-dischi-json
