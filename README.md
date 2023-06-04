@@ -10,4 +10,4 @@ Per salvare la cartella con il progetto (MAMP consigliato per creare server web)
  
 Per runnare il codice in locale:
 
-- localhost/php/php-dischi-json
+- localhost/php/php-oop-1
